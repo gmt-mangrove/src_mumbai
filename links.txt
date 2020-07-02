@@ -1,0 +1,3 @@
+https://developers.arcgis.com/python/sample-notebooks/land-cover-classification-using-unet/ - Deep learning unet. 
+https://www.earthdatascience.org/courses/use-data-open-source-python/multispectral-remote-sensing/vegetation-indices-in-python/ - Vegetation Index calculation
+https://www.researchgate.net/publication/324711398_ESTIMATION_OF_MANGROVE_FOREST_ABOVEGROUND_BIOMASS_USING_MULTISPECTRAL_BANDS_VEGETATION_INDICES_AND_BIOPHYSICAL_VARIABLES_DERIVED_FROM_OPTICAL_SATELLITE_IMAGERIES_RAPIDEYE_PLANETSCOPE_AND_SENTINEL-2
